@@ -47,8 +47,6 @@ The project contains two dashboard pages with interactive visualisations, KPI ca
 
 ## 🛠️ Tools & Technologies
 
-\<p>   \<img src="[https://img.shields.io/badge/Microsoft-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black](https://img.shields.io/badge/Microsoft-Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)"/>   \<img src="[https://img.shields.io/badge/Data-Visualization-blue?style=flat-square](https://img.shields.io/badge/Data-Visualization-blue?style=flat-square)"/>   \<img src="[https://img.shields.io/badge/Analytics-Interactive-green?style=flat-square](https://img.shields.io/badge/Analytics-Interactive-green?style=flat-square)"/> \</p>
-
 - Microsoft Power BI
 - Data Visualisation
 - Bar Charts
