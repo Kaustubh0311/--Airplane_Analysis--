@@ -1,23 +1,16 @@
 # ✈️ Airplane Analysis | Power BI Dashboard
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)" />   \<img src="[https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge](https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Status-Completed-success?style=for-the-badge](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)" /> \</p>
+\<p align="center">   \<img src="[https://img.shields.io/badge/POWER_BI-DASHBOARD-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/POWER_BI-DASHBOARD-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)"/>   \<img src="[https://img.shields.io/badge/DATA-ANALYTICS-2196F3?style=for-the-badge](https://img.shields.io/badge/DATA-ANALYTICS-2196F3?style=for-the-badge)"/>   \<img src="[https://img.shields.io/badge/PROJECT-COMPLETED-2EA44F?style=for-the-badge](https://img.shields.io/badge/PROJECT-COMPLETED-2EA44F?style=for-the-badge)"/> \</p>
 
 \<h3 align="center">🌍 Exploring Global Aviation Through Data\</h3>
 
-\<p align="center">   An interactive Power BI dashboard designed to explore global aircraft fleets, airline distribution, aircraft types, regional trends, and fleet cost insights through meaningful visualisations. \</p>
+\<p align="center">   An interactive data analytics dashboard exploring global aircraft fleets, airline distribution, regional trends and fleet cost insights. \</p>
 
 ---
 
-## 📌 Table of Contents
+## 📑 Quick Navigation
 
-- [About the Project](#-about-the-project)
-- [Dashboard Preview](#-dashboard-preview)
-- [Key Features](#-key-features)
-- [Tools & Technologies](#-tools--technologies)
-- [Key Analysis](#-key-analysis)
-- [Project Structure](#-project-structure)
-- [How to Use](#-how-to-use)
-- [Author](#-author)
+\<p align="center">   \<a href="#-about-the-project">About\</a> •   \<a href="#-dashboard-preview">Dashboard\</a> •   \<a href="#-key-features">Features\</a> •   \<a href="#-tools--technologies">Tools\</a> •   \<a href="#-author">Author\</a> \</p>
 
 ---
 
@@ -25,60 +18,68 @@
 
 The **Airplane Analysis Dashboard** is a data analytics project developed using Microsoft Power BI.
 
-The main purpose is to transform aviation fleet data into meaningful insights and provide an interactive way to understand aircraft distribution across different regions and airlines.
+The objective is to transform aviation fleet data into meaningful insights by analysing aircraft distribution, current and historical fleet information, parent airlines, geographical regions and fleet costs.
 
-The dashboard consists of two analytical pages, combining charts, KPI cards, and interactive slicers to explore fleet information.
+The project contains two dashboard pages with interactive visualisations, KPI cards and slicers.
 
 ## 📊 Dashboard Preview
 
 ### 🟣 Page 1 – Global Fleet Overview
 
-Analysing current and historical aircraft distribution across regions and parent airlines, along with aircraft type comparisons and key performance indicators.
+- Current vs Historic aircraft distribution by region.
+- Aircraft type comparison.
+- Parent airline fleet analysis.
+- Average aircraft age and total current cost KPIs.
 
-
+\<p align="center">   \<img src="Page-1.png" alt="Airplane Analysis Dashboard - Page 1" width="100%"/> \</p>
 
 ### 🔵 Page 2 – Interactive Fleet Analysis
 
-Exploring aircraft distribution through region-based and airline-based filters, with interactive visualisations and fleet performance indicators.
+- Region-based filtering.
+- Parent airline selection.
+- Current vs Historic aircraft analysis.
+- Regional fleet comparison.
+- Average aircraft age and current total cost KPIs.
 
-
+\<p align="center">   \<img src="Page-2.png" alt="Airplane Analysis Dashboard - Page 2" width="100%"/> \</p>
 
 ---
 
 ## ✨ Key Features
 
-- 🌍 **Regional Analysis:** Explore aircraft distribution across different geographical regions.
-- ✈️ **Aircraft Type Analysis:** Compare fleet totals across different aircraft models.
-- 🏢 **Airline Analysis:** Understand fleet distribution across parent airlines.
-- 📊 **Current vs Historic:** Compare current and historical fleet figures.
-- 🎛️ **Interactive Slicers:** Filter dashboard information by region and parent airline.
-- 📈 **KPI Cards:** Display average aircraft age and current total fleet cost.
-- 🎨 **Dark Theme:** Clean and visually appealing dashboard design.
+| Feature                 | Description                             |
+| ----------------------- | --------------------------------------- |
+| 🌍 Regional Analysis    | Explore aircraft distribution by region |
+| ✈️ Aircraft Analysis    | Compare different aircraft models       |
+| 🏢 Airline Analysis     | Analyse parent airline fleets           |
+| 📊 Fleet Comparison     | Compare current and historical values   |
+| 🎛️ Interactive Filters | Filter by region and parent airline     |
+| 📈 KPI Cards            | Display age and fleet cost metrics      |
+| 🎨 Dark Theme           | Modern dashboard appearance             |
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-| Tool / Technology  | Purpose                                |
-| ------------------ | -------------------------------------- |
-| Microsoft Power BI | Dashboard development                  |
-| Data Visualisation | Presenting analytical insights         |
-| Bar Charts         | Comparing aircraft and regional values |
-| Funnel Charts      | Visual comparison of category totals   |
-| KPI Cards          | Displaying important metrics           |
-| Slicers            | Interactive data filtering             |
+\<p>   \<img src="[https://img.shields.io/badge/Microsoft-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black](https://img.shields.io/badge/Microsoft-Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)"/>   \<img src="[https://img.shields.io/badge/Data-Visualization-blue?style=flat-square](https://img.shields.io/badge/Data-Visualization-blue?style=flat-square)"/>   \<img src="[https://img.shields.io/badge/Analytics-Interactive-green?style=flat-square](https://img.shields.io/badge/Analytics-Interactive-green?style=flat-square)"/> \</p>
+
+- Microsoft Power BI
+- Data Visualisation
+- Bar Charts
+- Stacked Column Charts
+- Funnel Charts
+- KPI Cards
+- Interactive Slicers
 
 ---
 
 ## 📈 Key Analysis
 
-This project focuses on the following analytical areas:
-
-1. Regional comparison of current and historical aircraft fleets.
-2. Distribution of aircraft across different aircraft models.
-3. Parent airline fleet comparisons.
+1. Current and historical aircraft distribution across regions.
+2. Aircraft fleet distribution by aircraft type.
+3. Comparison of parent airline fleets.
 4. Total fleet distribution across geographical regions.
-5. Average aircraft age analysis.
+5. Aircraft average age analysis.
 6. Current fleet cost analysis.
 
 ---
@@ -96,32 +97,51 @@ Airplane_Analysis/
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Explore the Project
 
-1. Download the `Airplane_Analysis.pbix` file from this repository.
-2. Install and open Microsoft Power BI Desktop.
-3. Open the downloaded PBIX file.
-4. Explore both dashboard pages.
-5. Use the region and parent airline slicers to interact with the visualisations.
+1. Download the `Airplane_Analysis.pbix` file.
+2. Open it using Microsoft Power BI Desktop.
+3. Explore both report pages.
+4. Use the region and parent airline slicers.
+5. Analyse the visualisations and KPI indicators.
 
 ---
 
-## 👨‍💻 Author
+\<details> \<summary>\<b>📊 View Project Highlights\</b>\</summary>
+
+- Two analytical dashboard pages.
+- Regional and airline-based analysis.
+- Current and historical fleet comparisons.
+- Aircraft age and cost indicators.
+- Interactive report filtering.
+
+\</details>
+
+\<details> \<summary>\<b>📁 View Project Files\</b>\</summary>
+
+- `Airplane_Analysis.pbix` – Power BI project file.
+- `Page-1.png` – Global Fleet Overview.
+- `Page-2.png` – Interactive Fleet Analysis.
+- `README.md` – Project documentation.
+
+\</details>
+
+---
+
+## 👨‍💻 About the Author
 
 ### Kaustubh Saurkar
 
 **Aspiring Data Scientist | Data Analyst | Python Enthusiast**
 
-I enjoy transforming raw data into meaningful insights through data analysis, visualisation, and interactive dashboards.
+Passionate about data analytics, business intelligence, data visualisation and transforming data into meaningful insights.
 
-\<p align="left">   \<a href="[https://github.com/Kaustubh0311](https://github.com/Kaustubh0311)">     \<img src="[https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)" />   \</a> \</p>
+\<p>   \<a href="[https://github.com/Kaustubh0311](https://github.com/Kaustubh0311)">     \<img src="[https://img.shields.io/badge/GitHub-Visit_My_Profile-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Visit_My_Profile-black?style=for-the-badge\&logo=github)"/>   \</a> \</p>
 
 ---
 
 \<p align="center">
-&#x20; ⭐ If you find this project interesting, consider giving this repository a star!
+&#x20; ⭐ If you like this project, don't forget to give it a star!
 \</p>
 
-\<p align="center">
-&#x20; \<b>Turning Data into Insights, One Dashboard at a Time. 🚀\</b>
-\</p>
+\<h3 align="center">🚀 Turning Data into Insights, One Dashboard at a Time.\</h3>
