@@ -1,13 +1,5 @@
 # ✈️ Airplane Analysis | Power BI Dashboard
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/POWER_BI-DASHBOARD-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/POWER_BI-DASHBOARD-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)"/>   \<img src="[https://img.shields.io/badge/DATA-ANALYTICS-2196F3?style=for-the-badge](https://img.shields.io/badge/DATA-ANALYTICS-2196F3?style=for-the-badge)"/>   \<img src="[https://img.shields.io/badge/PROJECT-COMPLETED-2EA44F?style=for-the-badge](https://img.shields.io/badge/PROJECT-COMPLETED-2EA44F?style=for-the-badge)"/> \</p>
-
-\<h3 align="center">🌍 Exploring Global Aviation Through Data\</h3>
-
-\<p align="center">   An interactive data analytics dashboard exploring global aircraft fleets, airline distribution, regional trends and fleet cost insights. \</p>
-
----
-
 ## 📑 Quick Navigation
 
 \<p align="center">   \<a href="#-about-the-project">About\</a> •   \<a href="#-dashboard-preview">Dashboard\</a> •   \<a href="#-key-features">Features\</a> •   \<a href="#-tools--technologies">Tools\</a> •   \<a href="#-author">Author\</a> \</p>
@@ -84,18 +76,6 @@ The project contains two dashboard pages with interactive visualisations, KPI ca
 
 ---
 
-## 📂 Project Structure
-
-```text
-Airplane_Analysis/
-│
-├── Airplane_Analysis.pbix
-├── Page-1.png
-├── Page-2.png
-└── README.md
-```
-
----
 
 ## 🚀 How to Explore the Project
 
@@ -136,11 +116,7 @@ Airplane_Analysis/
 
 Passionate about data analytics, business intelligence, data visualisation and transforming data into meaningful insights.
 
-\<p>   \<a href="[https://github.com/Kaustubh0311](https://github.com/Kaustubh0311)">     \<img src="[https://img.shields.io/badge/GitHub-Visit_My_Profile-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Visit_My_Profile-black?style=for-the-badge\&logo=github)"/>   \</a> \</p>
 
----
-
-\<p align="center">
 &#x20; ⭐ If you like this project, don't forget to give it a star!
 \</p>
 
