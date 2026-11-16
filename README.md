@@ -1,11 +1,5 @@
 # ✈️ Airplane Analysis | Power BI Dashboard
 
-## 📑 Quick Navigation
-
-\<p align="center">   \<a href="#-about-the-project">About\</a> •   \<a href="#-dashboard-preview">Dashboard\</a> •   \<a href="#-key-features">Features\</a> •   \<a href="#-tools--technologies">Tools\</a> •   \<a href="#-author">Author\</a> \</p>
-
----
-
 ## 🎯 About the Project
 
 The **Airplane Analysis Dashboard** is a data analytics project developed using Microsoft Power BI.
